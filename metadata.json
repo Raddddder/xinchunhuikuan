@@ -1,0 +1,14 @@
+{
+  "name": "CNY Remittance Safety Challenge",
+  "description": "A festive, hand-drawn style quiz game about Spring Festival remittance safety and anti-fraud awareness.",
+  "dependencies": {
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.300.0",
+    "html2canvas": "^1.4.1",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.0",
+    "canvas-confetti": "^1.9.2",
+    "@types/canvas-confetti": "^1.6.4"
+  },
+  "requestFramePermissions": []
+}
